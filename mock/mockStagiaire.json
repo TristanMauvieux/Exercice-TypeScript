@@ -1,0 +1,21 @@
+[
+    {
+        "nom":"Spring",
+        "prenom":"boot", 
+        "genre" : true, 
+        "certification" :{
+            "nom ": "Java7",
+            "anneeObtention" : 2016
+        }
+    },
+    {
+        "nom":"Olivier",
+        "prenom":"Alex",
+        "genre":true,
+        "certification" :{
+            "nom ":"Oracle Java 8",
+            "anneeObtention" : 2017
+        }
+    }
+
+]

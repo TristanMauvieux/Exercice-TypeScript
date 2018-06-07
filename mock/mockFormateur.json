@@ -1,0 +1,42 @@
+[
+    {
+        "nom":"Uya",
+        "prenom":"Adrienne", 
+        "genre" : false,
+        "connaissance" :[
+            {
+            "nom" :"C#",
+            "anneeExperience" : 1
+
+            },
+            {
+                "nom":"java 8",
+                "anneeExperience":3
+            },
+            {
+                "nom":"Javascript",
+                "anneeExperience":5
+            },
+            {
+                "nom":"java",
+                "anneeExperience":5
+            }
+
+        ] 
+    },
+    {
+        "nom":"Opane",
+        "prenom":"Adele",
+        "genre":false,
+        "connaissance":[
+            {
+                "nom":"C#",
+                "anneeExperience":3
+            },
+            {
+                "nom":"C++",
+                "anneeExperience":3
+            }
+        ]
+    }
+]

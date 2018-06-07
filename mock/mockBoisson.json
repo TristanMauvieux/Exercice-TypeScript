@@ -1,0 +1,18 @@
+[   
+    {
+        "nom":"jus d'orange",
+        "alcool":false,
+        "bio":true
+    },
+    {
+        "nom":"Oasis",
+        "alcool": false,
+        "bio": false 
+    },
+    {
+        "nom":"brune",
+        "alcool":true,
+        "bio":false
+    }
+    
+]
